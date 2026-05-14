@@ -1,1 +1,0 @@
-# Permiss-o.lua
