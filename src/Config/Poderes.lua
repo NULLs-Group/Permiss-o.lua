@@ -14,7 +14,7 @@ local Poderes = {
 		},
 		
 		Itens = { --- 0 não ganha item, 1 ganha o item
-		['Ex1'] = 0;
+		['DeathNote'] = 0;
 		['Ex2'] = 0;
 		['Ex3'] = 0;
 		['Ex4'] = 0;
