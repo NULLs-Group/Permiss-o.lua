@@ -28,7 +28,6 @@ local Painel = {
 
 		Bloqueados = {
 			"PainelAdm";
-			"Open";
 
 		};
 	};
