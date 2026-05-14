@@ -58,4 +58,5 @@ local Painel = {
 
 }
 
+print("Configurações do painel carregadas com sucesso!")
 return Painel
