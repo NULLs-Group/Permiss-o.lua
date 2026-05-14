@@ -6,6 +6,8 @@ local Painel = {
 		"Frame3";
 		"Frame4";
 		"Frame5";
+		"Frame6";
+		"Frame7";
 	};
 
 	----------------------------------- Player ---------------------------------------------
@@ -18,6 +20,8 @@ local Painel = {
 			"Frame3";
 			"Frame4";
 			"Frame5";
+			"Frame6";
+			"Frame7";
 		};
 
 		Bloqueados = {
@@ -39,6 +43,8 @@ local Painel = {
 			"Frame3";
 			"Frame4";
 			"Frame5";
+			"Frame6";
+			"Frame7";
 		};
 	};
 
