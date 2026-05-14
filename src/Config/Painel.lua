@@ -1,6 +1,7 @@
 local Painel = {
 
 	PaineAdm = {
+		"PainelAdm";
 		"Open";
 		"Frame1";
 		"Frame2";
@@ -26,6 +27,7 @@ local Painel = {
 		};
 
 		Bloqueados = {
+			"PainelAdm";
 			"Open";
 
 		};
@@ -40,6 +42,7 @@ local Painel = {
 		};
 
 		Bloqueados = {
+			"PainelAdm";
 			"Open";
             "Frame1";
 			"Frame2";
