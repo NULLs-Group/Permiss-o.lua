@@ -26,6 +26,7 @@ local Painel = {
 		};
 
 		Bloqueados = {
+			"Open";
 
 		};
 	};
