@@ -19,7 +19,7 @@ local Poderes = {
 		['Ex3'] = 0;
 		['Ex4'] = 0;
 		['Ex5'] = 0;
-		['Ex6'] = 0	;
+		['Ex6'] = 0;
 		},
 
 		PermissoesCustomizadas = {
